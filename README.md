@@ -115,9 +115,12 @@
         <section id="CH06 Superposition Of Waves">
             <h2>XII CHP 06 Superposition Of Waves</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1urBHPSgONsYETpdKX3l-taF-z9UX6u7C/view?usp=sharing">Theory Notes</a></li>
-                <li><a href="https://drive.google.com/file/d/12LBBr1hNx9FcPLnwW87n3wqWDXeX7NaO/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1PfPeugfxonrIabnq2GeXspV3M4xWavsl/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1_d3B91BKycYSJywoBIYj7BxljhzlsuQs/view?usp=sharing">TEST 01</a></li>
+                <li><a href="https://drive.google.com/file/d/1Ke7t_gvHZMCsp3oBBk1Z1COO2mfWnYo9/view?usp=sharing">TEST 01 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1MM-orIiC3dYlr8BnkN6-CjHtRooLOGCa/view?usp=sharing">TEST 02</a></li>
+                <li><a href="https://drive.google.com/file/d/1d2vXHy-bLBsfpv5IfpsUsoZANiy3rQVa/view?usp=sharing">TEST 02 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1Q2S8CbjAetb3AohCBdcKkKbWDrzPtob1/view?usp=sharing">TEST 03</a></li>
+                <li><a href="https://drive.google.com/file/d/1fITVsQqZuxaFOoVMsNXayHB80i5x8l_-/view?usp=sharing">TEST 03 SOLUTION</a></li>
            </ul>
         </section>
         <section id="CH07 Wave Optics">
