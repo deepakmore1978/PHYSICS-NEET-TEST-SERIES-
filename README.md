@@ -65,18 +65,13 @@
         <section id="CH01 Rotational Dynamics">
             <h2>XII CHP 01 Rotational Dynamics</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/125M2B2C7vP1iEAbcXJFmcRvbKLgj2Emf/view?usp=sharing">Theory Notes</a></li>
-                <li><a href="https://drive.google.com/file/d/10Wac8OeIPZD99-liHEjLLHLH0mkF4Vs6/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1g6HIMYsmadmdFdLVtAduY0N_7jsd2JVZ/view?usp=sharing">PPT Notes</a></li>
-                <li><a href="https://forms.gle/2ovCs56PhUEHvge59">MCQ TEST 01</a></li>
-                <li><a href="https://forms.gle/N7J9xG6HLSdcXXkd7">MCQ TEST 02</a></li>
-                <li><a href="https://forms.gle/4JCoS96H7NYxCak39">MCQ TEST 03</a></li>
-                <li><a href="https://forms.gle/74hdAv7yKTB7MWos9">MCQ TEST 04</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScGJ8Bje07c3ySxMaDNCNuHDtb4cuG39GQxF_passhQJ5zT6w/viewform?usp=sharing">MCQ TEST 05</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc6gTzYvWzPZ5noUoLHPkHrBEceRYHRhK-uo1f-_WipuH9S5g/viewform?usp=sharing">MCQ TEST 06</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeDSN8lt-JKrkaIdqK3-2XL56YrAz9dbrwdj2oBa4kNvqkIJg/viewform?usp=sharing">MCQ TEST 07</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MCQ TEST 08</a></li>
-            </ul>
+                <li><a href="https://drive.google.com/file/d/13tkHH0VRxsbXg7LIXwYvlKtuEoqK9iRc/view?usp=sharing">TEST 01</a></li>
+                <li><a href="https://drive.google.com/file/d/13WHD7QoyiL4758RpNf7rZPmI5q92kPX4/view?usp=sharing">TEST 01 Solution</a></li>
+                <li><a href="https://drive.google.com/file/d/1ET682lwZ863EL6AEibueRcnWoEpYr-ex/view?usp=sharing">TEST 02</a></li>
+                <li><a href="https://drive.google.com/file/d/1924PE5GKnrCmJYBsSWLMYFKY6C9LpZkE/view?usp=sharing">SOLUTION TEST 02</a></li>
+                <li><a href="https://drive.google.com/file/d/11V8m0oZir8j2qwnjLRy35nhInx_NfmmS/view?usp=sharing">TEST 03</a></li>
+                <li><a href="https://drive.google.com/file/d/18aNSiX6tIb2TjcWgRdqOkdSO_mmwS-Br/view?usp=sharing">SOLUTION TEST 03</a></li>
+          </ul>
         </section>
         <section id="CH02 Mechanical Properties of Fluids">
             <h2>XII CHP 02 Mechanical Properties of Fluids</h2>
