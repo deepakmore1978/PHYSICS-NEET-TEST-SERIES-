@@ -160,9 +160,18 @@
         <section id="CH09 Current Electricity">
             <h2>XII CHP 09 Current Electricity</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1gaXthr7QG-cq0ezLFlOQWnrs_I99wpHZ/view?usp=sharing">Theory Notes</a></li>
-                <li><a href="https://drive.google.com/file/d/14JxhvzrUYYRYwHmeKhyiQSIf-OnET5iJ/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1JakqqBFYlTUs8XUQQ4eMsmhu5lMcUvWo/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1V5NpemtAzANnpwcAO4TGSGs3BpRCVQ3a/view?usp=sharing">TEST 01</a></li>
+                <li><a href="https://drive.google.com/file/d/1PQ7JK0RvPVQcFw9C4wDPd-urGxA4S9li/view?usp=sharing">TEST 01 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1mZhNZpeZ5grAWuVf1mNWj63ZZPjkpTZa/view?usp=sharing">TEST 02</a></li>
+                <li><a href="https://drive.google.com/file/d/1REInFadLouJbUlGqkpC-Z4ELc5pRrNxc/view?usp=sharing">TEST 02 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1eciZ_WQ2C7b2WIS88qYInxWq6cbRkSxg/view?usp=sharing">TEST 03</a></li>
+                <li><a href="https://drive.google.com/file/d/1FV7RKcskovzZ2clQmt-6wGrZ-OwTcZT7/view?usp=sharing">TEST 03 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1X4KoWegHO_IBOdGC_2nkxF724_z_KMpy/view?usp=sharing">TEST 04</a></li>
+                <li><a href="https://drive.google.com/file/d/1r2pXtCgHvJ-87zqnjFTuZv4f4JLfflLW/view?usp=sharing">TEST 04 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1ENxTnhISJsc7FtiduDefww8MP9N57e5m/view?usp=sharing">TEST 05</a></li>
+                <li><a href="https://drive.google.com/file/d/1qY0YdmmKDMDtWpurOJdHTSQQ8PPdkvuW/view?usp=sharing">TEST 05 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1dKwxARBMHSFP6BxE83XIcGbv4di6bWp4/view?usp=sharing">TEST 06</a></li>
+                <li><a href="https://drive.google.com/file/d/1VwmFEJUU95eUEUSfbunQKufaUk9emkpF/view?usp=sharing">TEST 06 SOLUTION</a></li>
            </ul>
         </section>
         <section id="CH10 Magnetic Fields due to Electric Current">
