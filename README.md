@@ -76,9 +76,10 @@
         <section id="CH02 Mechanical Properties of Fluids">
             <h2>XII CHP 02 Mechanical Properties of Fluids</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1gUE9aqP0axqTV5SebLBLSoHH_dsHG1xg/view?usp=sharing">Theory Notes</a></li>
-                <li><a href="https://drive.google.com/file/d/1fcarcAwhToZ_8MT-Ly9GJMo-8BKOxWSu/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1pY8TxxppNVfyJE_OBCPKzzmH9RHlGSB4/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1Qmuts7OPAdwG13ror-aEaYRk_hmKuj7z/view?usp=sharing">TEST 01</a></li>
+                <li><a href="https://drive.google.com/file/d/1kQJ-ZBcBnSrYoEkdISCp_l-Xu2tNSU3U/view?usp=sharing">TEST 01 Solution</a></li>
+                <li><a href="https://drive.google.com/file/d/1sfBiYB5qZJXjyiIe2s_IHJZ6rGYtWgmh/view?usp=sharing">TEST 02</a></li>
+                <li><a href="https://drive.google.com/file/d/1_yr1v8FOL2fdWLsQiIxl2i8MSyvrEnTX/view?usp=sharing">TEST 02 Solution</a></li>
             </ul>
         </section>
         <section id="CH03 Kinetic Theory OF Gases">
