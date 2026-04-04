@@ -126,14 +126,18 @@
         <section id="CH07 Wave Optics">
             <h2>XII CHP 07 Wave Optics</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1TOU-Mshp-5PPjodj-Q3LiW4Vf-GroDj9/view?usp=sharing">Theory Notes</a></li>
-                <li><a href="https://drive.google.com/file/d/1vf9Saly9jLd4wlUrIBPUSeR_kHCMojl7/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1mIk0znpYxgXMlSi0uH4P5W2rqIf4sC4I/view?usp=sharing">PPT Notes</a></li>
-                <li><a href="https://forms.gle/VbN6MqiFX7d7Ay2r5">MCQ TEST 01</a></li>
-                <li><a href="https://forms.gle/VsLgiovipkZxK88n9">MCQ TEST 02</a></li>
-                <li><a href="https://forms.gle/z5QXhVPEFAXLgbTn8">MCQ TEST 03</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfNuZu3wLmn5Qpk6oMvszNQW5HirfkBiprvZLKFUEOX-nyAEA/viewform?usp=sharing">MCQ TEST 04</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc8E88TcE2JO40xiDIaleB4GcBu8Ri9Nj_yXSLdO1PKjq2--w/viewform?usp=sharing">MCQ TEST 05</a></li>
+                <li><a href="https://drive.google.com/file/d/1cbUgu2z5JV2IFwxDaA12Rbh0_J1RL415/view?usp=sharing">TEST 01</a></li>
+                <li><a href="https://drive.google.com/file/d/1mYJVc2g6cgzrxCdAWechmbt_hTKleKh5/view?usp=sharing">TEST 01 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1P4Hhpswu-ANL390sCuwqs_J51FPElBsE/view?usp=sharing">TEST 02</a></li>
+                <li><a href="https://drive.google.com/file/d/1QqOwqsHehRwGLi_G3bhqdKduc61Gx5oi/view?usp=sharing">TEST 02 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1m6QInsKp1c_uS9hwQBcIofifgTKXCpiy/view?usp=sharing">TEST 03</a></li>
+                <li><a href="https://drive.google.com/file/d/1zlD8ai3BFyQSmejIoc1g-hfha4kjhiGN/view?usp=sharing">TEST 03 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/17cT0EX5arYYQ6XaXcrq_BK5OGDUcC1Tc/view?usp=sharing">TEST 04</a></li>
+                <li><a href="https://drive.google.com/file/d/1QmqLXMEITgW4H5nfw_LbQTcjEvJ-N4w0/view?usp=sharing">TEST 04 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1i_LBsuW-P8Od7Zp7lX_3_Y-uQXBCFGRN/view?usp=sharing">TEST 05</a></li>
+                <li><a href="https://drive.google.com/file/d/1yME9M-VevlDMZeaoOTmpCZKhubKPFUl2/view?usp=sharing">TEST 05 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1IQpoqWAr_fqdIlIq989-j2NrQCCs4cUp/view?usp=sharing">TEST 06</a></li>
+                <li><a href="https://drive.google.com/file/d/1KSh73JX4N_VEef8yh_SsMiLk3jQmi2nX/view?usp=sharing">TEST 06 SOLUTION</a></li>
            </ul>
         </section>
         <section id="CH08 Electrostatics">
