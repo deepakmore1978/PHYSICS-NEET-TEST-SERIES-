@@ -143,9 +143,18 @@
         <section id="CH08 Electrostatics">
             <h2>XII CHP 08 Electrostatics</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1FuvvocQIWsWsuNE8qsOZ0wAlzY7Rcuvd/view?usp=sharing">Theory Notes</a></li>
-                <li><a href="https://drive.google.com/file/d/1Ue1hcZAA8P_K7eTqDxtS91rOAT12eFr2/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1s4oMlwWG40iM4GApZyUaf4X2RyqhRo-7/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1tmT-BID8AqxUPLE-5zhO1bWYE7cCTdZz/view?usp=sharing">TEST 01</a></li>
+                <li><a href="https://drive.google.com/file/d/1xjayR-5WWIfmHQdEUZZoBA19XCvp_EBM/view?usp=sharing">TEST 01 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1F5zhuPbF2RwjZb9m_1HknjA5ClhgY0-i/view?usp=sharing">TEST 02</a></li>
+                <li><a href="https://drive.google.com/file/d/108o16By5tVGAkTgyoeSnxpV1TTuafeBj/view?usp=sharing">TEST 02 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1CU2VxDWdXf10bvHgsG11UIClCCHPbuvB/view?usp=sharing">TEST 03</a></li>
+                <li><a href="https://drive.google.com/file/d/1u_PTon1-fIq0GPXlI0EmWjuR06COKNde/view?usp=sharing">TEST 03 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/16Bg300Wbcv8dUMv1JvMoLV45ee-FMxCY/view?usp=sharing">TEST 04</a></li>
+                <li><a href="https://drive.google.com/file/d/1ok7qefCNFTziVV9RAp0Au8RynHH8BS05/view?usp=sharing">TEST 04 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1axMARwy4OSC_K2EXMhNXjh6ey5JlW30c/view?usp=sharing">TEST 05</a></li>
+                <li><a href="https://drive.google.com/file/d/1SoNzNks8hnukHrcdCHFOe2NIxQnZMU4C/view?usp=sharing">TEST 05 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/10icmooByPpimINvMJETaRP4iaWvVs8Eq/view?usp=sharing">TEST 06</a></li>
+                <li><a href="https://drive.google.com/file/d/1mIoxS2UW76UwYZr4_5bSz3EUAo03Hw1g/view?usp=sharing">TEST 06 SOLUTION</a></li>
            </ul>
         </section>
         <section id="CH09 Current Electricity">
