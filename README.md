@@ -85,9 +85,12 @@
         <section id="CH03 Kinetic Theory OF Gases">
             <h2>XII CHP 03 Kinetic Theory OF Gases</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1ihhingyi-e02usoPJqC_UH9mkl8bBjfi/view?usp=sharing">Theory Notes</a></li>
-                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1ONYE0a1CCu9nJJsfylbbmeCY8m1tn_Eg/view?usp=sharing">TEST 01</a></li>
+                <li><a href="https://drive.google.com/file/d/12Si747wFnEj5NpGX0EeeSQK8kt_Vlj_m/view?usp=sharing">TEST 01 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/14JqcWc2YO8hpdLjzCB-7Gp08dzLDxVp2/view?usp=sharing">TEST 02</a></li>
+                <li><a href="https://drive.google.com/file/d/1ar6_aBJq_cpouCTriyZnMLc5BW7yAxlR/view?usp=sharing">TEST 02 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1lQU1b8ROKQ_lRMEdTsmcMRxiXq7L_Nkn/view?usp=sharing">TEST 03</a></li>
+                <li><a href="https://drive.google.com/file/d/1pIYMNm-hkdDTnm7NZ_lVU9sW3cr0kynH/view?usp=sharing">TEST 03 SOLUTION</a></li>
            </ul>
         </section>
         <section id="CH04 Thermodynamics">
