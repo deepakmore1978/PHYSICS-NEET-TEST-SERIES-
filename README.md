@@ -188,9 +188,12 @@
         <section id="CH11 Magnetic Material">
             <h2>XII CHP 11 Magnetic Material</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1nTyjkyn3lrKGD2ffgezveRs5UmtARIaa/view?usp=sharing">Theory Notes</a></li>
-                <li><a href="https://drive.google.com/file/d/1bUtTND1A8491A5HUpXyyaip5b7Nw_h7L/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1g6uzxfikklPYkqkHBMQECD9cBlkWURyy/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1aLJKsFW35Za3Y1bKBksZtGbq2tE6pDQV/view?usp=sharing">TEST 01</a></li>
+                <li><a href="https://drive.google.com/file/d/1ZWjvB8a1viat5sPQPJauUDadSwha34Qw/view?usp=sharing">TEST 01 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1Y5yPpFnLW7MGsCPnSG_4IcnHj9WEj54u/view?usp=sharing">TEST 02</a></li>
+                <li><a href="https://drive.google.com/file/d/1GzlIAZwDbkmVwvhJWlnQjaFi1VGCVuDp/view?usp=sharing">TEST 02 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1cP7_0MxGj3bv1e1iGYkO-HYsyI0NWqww/view?usp=sharing">TEST 03</a></li>
+                <li><a href="https://drive.google.com/file/d/1J1BO8N0S-lCDEt4Ayrg60L8x6TqU_Vn9/view?usp=sharing">TEST 03 SOLUTION</a></li>
            </ul>
         </section>
         <section id="CH12 Electromagnetic Induction">
