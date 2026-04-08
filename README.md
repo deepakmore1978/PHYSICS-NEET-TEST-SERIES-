@@ -31,7 +31,7 @@
                 <li><a href="#CH16 Semiconductor Devices">XII chp 16 Semiconductor Devices</a></li>
                 <li><a href="#MEASUREMENT">XI-SCI MEASUREMENT</a></li>
                 <li><a href="#GRAVITATION">XI-SCI GRAVITATION</a></li>
-                <li><a href="#NEET TEST LINK">NEET SECTION</a></li>
+                <li><a href="#WORK POWER ENERGY">WORK POWER ENERGY</a></li>
             </ul>
         </nav>
     </header>
@@ -280,16 +280,15 @@
                 <li><a href="https://drive.google.com/file/d/1SIyQZ5DMgoMJcoyrGT9c55hjtxqsyheo/view?usp=sharing">TEST 03 SOLUTION</a></li>
             </ul>
         </section>
-        <section id="NEET TEST LINK">
-            <h2>NEET TEST SERIES</h2>
+        <section id="WORK POWER ENERGY">
+            <h2>WORK POWER ENERGY</h2>
             <ul>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdXuRzpm0xnJMAYlW6YFLypQ425j7Aptdj91krblibz-HABTw/viewform?usp=sharing"> TEST 01 UNIT AND MEASUREMENT</a></li>
-                <li><a href="https://drive.google.com/file/d/1arWh4j4SP3zzf9zz2ZUHoNvwyjxgIsRs/view?usp=sharing"> TEST 01 HINT AND SOLUTION</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc9a-9fTZ8l7n_9EyVYmN5tA-ikI4aqVYDO_uWWA5lOdstUUg/viewform?usp=sharing">TEST 02 1D, 2D,Gavitation, Mathematical Method </a></li>
-                <li><a href="https://drive.google.com/file/d/1chr3z6D-ux2fdo8CfHRZeJVZMlqzrB52/view?usp=sharing">TEST 02 HINT AND SOLUTION</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSepq7W4i6TQZ3G1qsss8tawFqW276QnhPQD0unGHcwFNIcfzg/viewform?usp=sharing">TEST 03 Law of motion and Mechanical properties of solid</a></li>
-                <li><a href="https://drive.google.com/file/d/1ffd88OwbdbYq0N9I6nAYb_epr7VkO1X1/view?usp=sharing">TEST 03 HINT AND SOLUTION</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdXuRzpm0xnJMAYlW6YFLypQ425j7Aptdj91krblibz-HABTw/viewform?usp=sharing&ouid=112114855910623175157">UNIT AND MEASUREMENT</a></li>
+                 <li><a href="https://drive.google.com/file/d/1nqUZQ-3XHFFuK6FUo8wW0eVIMg9jn_Uz/view?usp=sharing">TEST 01</a></li>
+                <li><a href="https://drive.google.com/file/d/1iayyIa5WjOK5RRS4-n64ajEyRdlU8pBE/view?usp=sharing">TEST 01 SOLUTION</a></li> 
+                <li><a href="https://drive.google.com/file/d/1hk3ZRgLE7UiDza1Mx-L2uKwR63sjnapb/view?usp=sharing">TEST 02</a></li> 
+                <li><a href="https://drive.google.com/file/d/1ofaq7YfARsps8sQiRrhPDf9hDck_AGKY/view?usp=sharing">TEST 02 SOLUTION</a></li> 
+                <li><a href="https://drive.google.com/file/d/1RnNEBVMC7ZBzRg8fjY5bGDVjkTcQ_scU/view?usp=sharing">TEST 03</a></li>
+                <li><a href="https://drive.google.com/file/d/1s6ykRvCq8T2c1RfTK2DPB3ci9lpfvARb/view?usp=sharing">TEST 03 SOLUTION</a></li>
            </ul>
         </section>
         </main>
