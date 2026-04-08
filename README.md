@@ -177,9 +177,12 @@
         <section id="CH10 Magnetic Fields due to Electric Current">
             <h2>XII CHP 10 Magnetic Fields due to Electric Current</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1qtAH3u8qd_Yk2_j_Pe8oz__7tPV3N9NM/view?usp=sharing">Theory Notes</a></li>
-                <li><a href="https://drive.google.com/file/d/1ZM-RDF3e1PwuwueyIgHo3lzMIZQQ6Wy0/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1zWP4Al71QL1trcaTVmyOLyTJJ34oYWwU/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1kGoCil3h2VXmgl_01FhNuzWrj6zGZpL4/view?usp=sharing">TEST 01</a></li>
+                <li><a href="https://drive.google.com/file/d/1blIpTAunQ1vHuwk_ANNOM_h7MluGXbcU/view?usp=sharing">TEST 01 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1Zib2kQCsQm-_DIQOqs_THIcB9f5KCEtT/view?usp=sharing">TEST 02</a></li>
+                <li><a href="https://drive.google.com/file/d/1lRZEdROH-tU4mKllcTT83I5LkjefmT9I/view?usp=sharing">TEST 02 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/11-KTPmiGcs0OqyTTcyIR1UuAxdug_014/view?usp=sharing">TEST 03</a></li>
+                <li><a href="https://drive.google.com/file/d/1-Ttpc5BAD1UoW7-D6rhTeAh27IPrPoRC/view?usp=sharing">TEST 03 SOLUTION</a></li>
            </ul>
         </section>
         <section id="CH11 Magnetic Material">
