@@ -29,7 +29,7 @@
                 <li><a href="#CH14 DUAL NATURE OF RADIATION AND MATTER">XII chp 14 DUAL NATURE OF RADIATION AND MATTER</a></li>
                 <li><a href="#CH15 Structure of Atoms and Nuclei">XII chp 15 Structure of Atoms and Nuclei</a></li>
                 <li><a href="#CH16 Semiconductor Devices">XII chp 16 Semiconductor Devices</a></li>
-                <li><a href="#MEASUREMENT">MEASUREMENT</a></li>
+                <li><a href="#MEASUREMENT">XI-SCI MEASUREMENT</a></li>
                 <li><a href="#MHT CET TEST LINK">MHT CET SECTION</a></li>
                 <li><a href="#NEET TEST LINK">NEET SECTION</a></li>
             </ul>
@@ -256,7 +256,7 @@
            </ul>
         </section>
         <section id="MEASUREMENT">
-            <h2>MEASUREMENT</h2>
+            <h2>XI-SCI MEASUREMENT</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1_YbJUFnosJjM-jNW4e7h8Zjmwu7P64eX/view?usp=sharing">ALLEN Physics Hand Book</a></li>
                 <li><a href="https://drive.google.com/file/d/14X8FRVGLjRLvv0MTdzB9YHsOEhPK7vMT/view?usp=sharing">Physics Exampler</a></li>
