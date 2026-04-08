@@ -30,7 +30,7 @@
                 <li><a href="#CH15 Structure of Atoms and Nuclei">XII chp 15 Structure of Atoms and Nuclei</a></li>
                 <li><a href="#CH16 Semiconductor Devices">XII chp 16 Semiconductor Devices</a></li>
                 <li><a href="#MEASUREMENT">XI-SCI MEASUREMENT</a></li>
-                <li><a href="#MHT CET TEST LINK">MHT CET SECTION</a></li>
+                <li><a href="#GRAVITATION">XI-SCI GRAVITATION</a></li>
                 <li><a href="#NEET TEST LINK">NEET SECTION</a></li>
             </ul>
         </nav>
@@ -269,8 +269,8 @@
                 <li><a href="https://drive.google.com/file/d/1DOHCxgRmpBvNnBc6Jj9dbQqWlMOn9z0o/view?usp=sharing">TEST 03 SOLUTION</a></li>
            </ul>
         </section>
-        <section id="MHT CET TEST LINK">
-            <h2>MHT CET</h2>
+        <section id="GRAVITATION">
+            <h2>XI-SCI GRAVITATION</h2>
             <ul>
                 <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdxDPfLNyMm0nsiQQpgWx_Xu1aLWSMztbRCTCWWiExbt76XvA/viewform?usp=sharing">CYCLE TEST 01 CHP 01 TO 04</a></li>
                 <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSe3anPJ9rphDZxxQCciqZFVLJFuf4H6O--j57Nn8k4iLOUePg/viewform?usp=sharing">CYCLE TEST 02 CHP 05 TO 08</a></li> 
