@@ -199,17 +199,21 @@
         <section id="CH12 Electromagnetic Induction">
             <h2>XII CHP 12 Electromagnetic Induction</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1wM-klMTP9bXpuxEVGauTzOaJw5R1ev5C/view?usp=sharing">Theory Notes</a></li>
-                <li><a href="https://drive.google.com/file/d/1dxS6x-_VvM6qd3B2iocHAARsQYtvzVeB/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1jgseCHhKzJQbzCjRHOsWuef6THJ1iV5W/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1ajET_eTTKFHfsWmVbFtq5rfDWSf5SD2C/view?usp=sharing">TEST 01</a></li>
+                <li><a href="https://drive.google.com/file/d/1ziMXw-MY_Tfv6n1gNENGM_6FpmXA1l8p/view?usp=sharing">TEST 01 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1a7BqiVlOMiN3jSVqU5CtYHemO0l1hv8I/view?usp=sharing">TEST 02</a></li>
+                <li><a href="https://drive.google.com/file/d/1BegHCwwrOl2-qrX3c0Et6rlWVOQs-Kfq/view?usp=sharing">TEST 02 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1vg-UyE30n4tPc8TT2gMbpD5XYbpZ1QpE/view?usp=sharing">TEST 03</a></li>
+                <li><a href="https://drive.google.com/file/d/14Ci6D1-Ek585bEjKaIdDHZiuhsNuiwpN/view?usp=sharing">TEST 03 SOLUTION</a></li>
            </ul>
         </section>
         <section id="CH13 AC circuits">
             <h2>XII CHP 13 AC circuits</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/18LqdirX04GoFKHPOBBswnR_MiEcZGWeY/view?usp=sharing">Theory Notes</a></li>
-                <li><a href="https://drive.google.com/file/d/1DEG9yNhvxc5XaZdyYiWLLwq8ulNeRToa/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/131W8vFtMjOgTuXqdFWln5f9Y62QJYld3/view?usp=sharing">PPT Notes</a></li>
+                <<li><a href="https://drive.google.com/file/d/1O0XbXFKjQPtpZff91ZTpT6kMtmfpdKVt/view?usp=sharing">TEST 01</a></li>
+                <li><a href="https://drive.google.com/file/d/183dKFU6RKxTT6hzedNs4IRylRfdyyndW/view?usp=sharing">TEST 01 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1SGMXN90muPPgcMLPuyNksHQumyird6NX/view?usp=sharing">TEST 02</a></li>
+                <li><a href="https://drive.google.com/file/d/1MNj7rvmdMon9OQVHlWw5VO35YdZo9200/view?usp=sharing">TEST 02 SOLUTION</a></li>
            </ul>
         </section>
         <section id="CH14 DUAL NATURE OF RADIATION AND MATTER">
