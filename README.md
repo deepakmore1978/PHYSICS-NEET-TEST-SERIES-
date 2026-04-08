@@ -219,25 +219,40 @@
         <section id="CH14 DUAL NATURE OF RADIATION AND MATTER">
             <h2>XII CHP 14 DUAL NATURE OF RADIATION AND MATTER</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1nl6gNJhr9KJh9Xd_c5x8j7WyR8nMeTtI/view?usp=sharing">Theory Notes</a></li>
-                <li><a href="https://drive.google.com/file/d/1Aecc6eYOez0yPawQLS_sDh81JDGkpBQ4/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1Thv5mns39rZOX-G-UHPe-TxtWi1S1AWa/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1JGBovqxwuWFTr4-wxSlMkOspjDLoUHUo/view?usp=sharing">TEST 01</a></li>
+                <li><a href="https://drive.google.com/file/d/1uzMJ1vgKySZdA1eYp2Ew7OGi9dNz1HH_/view?usp=sharing">TEST 01 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1RY7OkmUSaVQ4hvag5XjA4nwzHx7kO0YC/view?usp=sharing">TEST 02</a></li>
+                <li><a href="https://drive.google.com/file/d/1OWfKAXA6pmVQcJLulFKEIVRKmIo_wiQ7/view?usp=sharing">TEST 02 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1tl0ytYtAq8Fy_aqeOiSRIevepzUXc-0t/view?usp=sharing">TEST 03</a></li>
+                <li><a href="https://drive.google.com/file/d/1kvKalLW-E4G721dEcU7wVqgqmUMGNPi0/view?usp=sharing">TEST 03 SOLUTION</a></li>
            </ul>
         </section>
         <section id="CH15 Structure of Atoms and Nuclei">
             <h2>XII CHP 15 Structure of Atoms and Nuclei</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1QwAnMYgnqABsXZ2v24q_lkzQPOU73NYT/view?usp=sharing">Theory Notes</a></li>
-                <li><a href="https://drive.google.com/file/d/1d73xZE_xaL04tEm6jIlHtbo1FCj6QhGz/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1muagYfsI5-t97d_YBuZHLXIt-SQqBxUs/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1TY-8hAKLV4D62nefNgxedlstEPvFjzDq/view?usp=sharing">TEST 01</a></li>
+                <li><a href="https://drive.google.com/file/d/1hH6kBbEmMSY1YzHkFPxh8zaoPjHcy_z5/view?usp=sharing">TEST 01 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1yUt0QS-SlR_D5UxT2EEo4iA5ED7vuZhu/view?usp=sharing">TEST 02</a></li>
+                <li><a href="https://drive.google.com/file/d/1RJEbVzs0ncE4cqx6uwr8Mk4kYIH800DA/view?usp=sharing">TEST 02 SOLUTION</a></li>
+                <li><a href="">TEST 03</a></li>
+                <li><a href="">TEST 03 SOLUTION</a></li>
+                <li><a href="">TEST 04</a></li>
+                <li><a href="">TEST 04 SOLUTION</a></li>
+                <li><a href="">TEST 05</a></li>
+                <li><a href="">TEST 05 SOLUTION</a></li>
+                <li><a href="">TEST 06</a></li>
+                <li><a href="">TEST 06 SOLUTION</a></li>
            </ul>
         </section>
          <section id="CH16 Semiconductor Devices">
             <h2>XII CHP 16 Semiconductor Devices</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1vv8uInIe0Eex8kbE69x6PPmdINizzFKR/view?usp=sharing">Theory Notes</a></li>
-                <li><a href="https://drive.google.com/file/d/1PG-HUftyTkDwf2BUr30n4dBK3OyqIrB0/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1DZNsD1ZbGeOizD3LUqQnm5cTsHTWOExL/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="">TEST 01</a></li>
+                <li><a href="">TEST 01 SOLUTION</a></li>
+                <li><a href="">TEST 02</a></li>
+                <li><a href="">TEST 02 SOLUTION</a></li>
+                <li><a href="">TEST 03</a></li>
+                <li><a href="">TEST 03 SOLUTION</a></li>
            </ul>
         </section>
         <section id="Physics Hand Book">
