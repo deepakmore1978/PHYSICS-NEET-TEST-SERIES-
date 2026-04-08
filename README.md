@@ -12,7 +12,7 @@
     <header>
         <nav>
             <ul> 
-                <li><a href="#pyq">Previous Question Paper</a></li>
+                <li><a href="#MOTION">MOTION NLM</a></li>
                 <li><a href="#CH01 Rotational Dynamics">XII chp 01 Rotational Dynamics</a></li>
                 <li><a href="#CH02 Mechanical Properties of Fluids">XII chp 02 Mechanical Properties of Fluids</a></li>
                 <li><a href="#CH03 Kinetic Theory OF Gases">XII chp 03 Kinetic Theory OF Gases</a></li>
@@ -36,30 +36,30 @@
         </nav>
     </header>
     <main>
-        <section id="pyq">
-            <h2>Previous Question Paper</h2>
+        <section id="MOTION">
+            <h2>MOTION NLM</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1utkHfK7aX7mlvwbvujAk_Ylzmvhg0Tv3/view?usp=sharing">XII Question Bank</a></li>
-                <li><a href="https://drive.google.com/file/d/11elVnPEsITs5qaQQj42WYnajniA-62Vv/view?usp=sharing">Practice Paper 01</a></li>
-                <li><a href="https://drive.google.com/file/d/1vUMKqntcSPDi9XN9_ovWYLWMQpZDZLbt/view?usp=sharing">Model Ans.Practice Paper 01</a></li>
-                <li><a href="https://drive.google.com/file/d/1wmBqJwWHtgZb61EA5GuVFYSF78Vp2cpx/view?usp=sharing">Practice Paper 02</a></li>
-                <li><a href="https://drive.google.com/file/d/1XfR_-dY57w5UxIxPIJ2PLKxrYj1HxIA8/view?usp=sharing">Model Ans.Practice Paper 02</a></li>
-                <li><a href="https://drive.google.com/file/d/11TnyJtkqV9dJy2uf6QytbwKwPVvjvzfF/view?usp=sharing">Practice Paper 03</a></li>
-                <li><a href="https://drive.google.com/file/d/1PoA_8GjbXCEdVeK69tZppEXZZyHrP7qi/view?usp=sharing">Model Ans.Practice Paper 03</a></li>
-                <li><a href="https://drive.google.com/file/d/1nlQKo91_adrbhsYFhYGR-GY_y8wXsJq4/view?usp=sharing">Practice Paper 04</a></li>
-                <li><a href="https://drive.google.com/file/d/1nQYkycaMK008jS0nWxStAWJ-SypA1ocR/view?usp=sharing">Model Ans.Practice Paper 04</a></li>
-                <li><a href="https://drive.google.com/file/d/1Lu9_z7MmUyvuLyCc4Y4lXTA8zu-Xk78-/view?usp=sharing">Practice Paper 05</a></li>
-                <li><a href="https://drive.google.com/file/d/1qHe_dpVgvYcj9Icz5y5kL3dtxTVQN-M6/view?usp=sharing">Model Ans.Practice Paper 05</a></li>
-                <li><a href="https://drive.google.com/file/d/1N1fW_1_c44-oQGPSAUJaeB8BIrQ0XLuO/view?usp=sharing">Model Feb 2025 Board Ques. Paper with Model Ans</a></li>
-                <li><a href="https://drive.google.com/file/d/15Vm66r_jLvUJz8CuHgMkc5DyLoV_JZs5/view?usp=sharing">XII Board Physics Question Bank</a></li>
-                <li><a href="https://drive.google.com/file/d/1334wVlEqMjrrIgO3l-p_txnT4IzU8bjO/view?usp=sharing">XII Board Maths Question Bank</a></li>
-                <li><a href="https://drive.google.com/file/d/1MF1P1wJsE14pP8GS6HZ1hKXNbL49b6Zz/view?usp=sharing">XII Board Geography Question Bank</a></li>
-                <li><a href="https://drive.google.com/file/d/1_JTshitbLoq5GOWrWJpHYdLMA_YTds2V/view?usp=sharing">XII Board English Question Bank</a></li>
-                <li><a href="https://drive.google.com/file/d/1xhLpZlHZtUSRJ-bDF_JPXNsJSHMgJXce/view?usp=sharing">XII Board Chemistry Question Bank</a></li>
-                <li><a href="https://drive.google.com/file/d/1X0oBO8IZDbxmuLRPRehsBCGuBmNMUmGx/view?usp=sharing">XII Board Biology Question Bank</a></li>
-                <li><a href="https://drive.google.com/file/d/1R9oUPL0VklZQMgQ1RK-jUNz6ZWbghLta/view?usp=sharing">Board Question Paper 2021</a></li>
-                <li><a href="https://drive.google.com/file/d/1AlPeIp7s1rNAac-de0LE_AOXleM0Momd/view?usp=sharing">Model july 2023 Board Ques. Paper with Model Ans</a></li>
-                <li><a href="https://drive.google.com/file/d/1eYqzxFSyQvYOxLJPdAxd2HzIvyZKIz0P/view?usp=sharing">Model july 2024 Board Ques. Paper with Model Ans</a></li>
+                <li><a href="">TEST 01</a></li>
+                <li><a href="">TEST 01 SOLUTION</a></li>
+                <li><a href="">TEST 02</a></li>
+                <li><a href="">TEST 02 SOLUTION</a></li>
+                <li><a href="">TEST 03</a></li>
+                <li><a href="">TEST 03 SOLUTION</a></li>
+                <li><a href="">TEST 04</a></li>
+                <li><a href="">TEST 04 SOLUTION</a></li>
+                <li><a href="">TEST 05</a></li>
+                <li><a href="">TEST 05 SOLUTION</a></li>
+                <li><a href="">TEST 06</a></li>
+                <li><a href="">TEST 06 SOLUTION</a></li>
+                <li><a href="">TEST 07</a></li>
+                <li><a href="">TEST 07 SOLUTION</a></li>
+                <li><a href="">TEST 08</a></li>
+                <li><a href="">TEST 08 SOLUTION</a></li>
+                <li><a href="">TEST 09</a></li>
+                <li><a href="">TEST 09 SOLUTION</a></li>
+                <li><a href="">TEST 10</a></li>
+                <li><a href="">TEST 10 SOLUTION</a></li>
+                <li><a href="">Model july 2024 Board Ques. Paper with Model Ans</a></li>
            </ul>
         </section>
         <section id="CH01 Rotational Dynamics">
