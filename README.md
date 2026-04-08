@@ -32,6 +32,10 @@
                 <li><a href="#MEASUREMENT">XI-SCI MEASUREMENT</a></li>
                 <li><a href="#GRAVITATION">XI-SCI GRAVITATION</a></li>
                 <li><a href="#WORK POWER ENERGY">WORK POWER ENERGY</a></li>
+                <li><a href="#SCALAR AND VECTOR">SCALAR AND VECTOR</a></li>
+                <li><a href="#ELASTICITY">ELASTICITY</a></li>
+                <li><a href="#THERMAL EXPANSION">THERMAL EXPANSION</a></li>
+                <li><a href="#EMW AND COMMUNICATION">EMW AND COMMUNICATION</a></li>
             </ul>
         </nav>
     </header>
