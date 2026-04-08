@@ -258,10 +258,12 @@
         <section id="MEASUREMENT">
             <h2>XI-SCI MEASUREMENT</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1_YbJUFnosJjM-jNW4e7h8Zjmwu7P64eX/view?usp=sharing">ALLEN Physics Hand Book</a></li>
-                <li><a href="https://drive.google.com/file/d/14X8FRVGLjRLvv0MTdzB9YHsOEhPK7vMT/view?usp=sharing">Physics Exampler</a></li>
-                <li><a href="https://drive.google.com/file/d/1HJEMHC50esUx2iOYHJFZgAMyxPQxFhw-/view?usp=sharing">Errorless Physics Book</a></li>
-                <li><a href="https://drive.google.com/file/d/1hh7WCoq0DYGW48FNAOWnqSzrU-LF4hbO/view?usp=sharing">Arihant Physics Hand Book</a></li>
+                <li><a href="https://drive.google.com/file/d/1-lJiFa6TerAMkqj9ImbIweUGlyhPfNaY/view?usp=sharing">TEST 01</a></li>
+                <li><a href="https://drive.google.com/file/d/11z-lYC_Vzr5FIV1ksxmkqsK9zSDY9k2b/view?usp=sharing">TEST 01 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/109W40ouC6CRy4dUHGS1BpYYYKOgbJX5h/view?usp=sharing">TEST 02</a></li>
+                <li><a href="https://drive.google.com/file/d/1zxV7AjLeoivXpj-rT4xIyfHo4pARAOHU/view?usp=sharing">TEST 02 SOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1ms3dVNjyijiv8SCZUfvVn0v9H2RrH2Ft/view?usp=sharing">TEST 03</a></li>
+                <li><a href="https://drive.google.com/file/d/1DOHCxgRmpBvNnBc6Jj9dbQqWlMOn9z0o/view?usp=sharing">TEST 03 SOLUTION</a></li>
            </ul>
         </section>
         <section id="MHT CET TEST LINK">
