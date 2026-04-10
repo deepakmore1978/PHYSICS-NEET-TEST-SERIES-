@@ -44,13 +44,10 @@
          <section id="NEET PREVIOUS QUES.BANK">
             <h2>NEET PREVIOUS QUES.BANK</h2>
             <ul>
-                <li><a href="">PHYSICS PYQ</a></li>
-                <li><a href="">CHEMISTRY PYQ</a></li>
-                <li><a href="">BIOLOGY PYQ</a></li>
-                <li><a href="https://drive.google.com/file/d/1924PE5GKnrCmJYBsSWLMYFKY6C9LpZkE/view?usp=sharing">SOLUTION TEST 02</a></li>
-                <li><a href="https://drive.google.com/file/d/11V8m0oZir8j2qwnjLRy35nhInx_NfmmS/view?usp=sharing">TEST 03</a></li>
-                <li><a href="https://drive.google.com/file/d/18aNSiX6tIb2TjcWgRdqOkdSO_mmwS-Br/view?usp=sharing">SOLUTION TEST 03</a></li>
-          </ul>
+                <li><a href="https://drive.google.com/file/d/1tczogcLAQWb5G-8TKNDPA1yAGWnnPexx/view?usp=sharing">PHYSICS PYQ</a></li>
+                <li><a href="https://drive.google.com/file/d/1yOVYuJ8u29F8DBZ8F5-YAPhsRvQsDExL/view?usp=sharing">CHEMISTRY PYQ</a></li>
+                <li><a href="https://drive.google.com/file/d/1rr9WNbUfIjSeSAwDoceP_83HBa-kVFBX/view?usp=sharing">BIOLOGY PYQ</a></li>
+           </ul>
         </section>
         <section id="MOTION">
             <h2>MOTION NLM</h2>
