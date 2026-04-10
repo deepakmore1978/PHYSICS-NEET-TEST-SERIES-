@@ -12,6 +12,7 @@
     <header>
         <nav>
             <ul> 
+                <li><a href="#NEET PREVIOUS QUES.BANK">NEET PREVIOUS QUES.BANK</a></li>
                 <li><a href="#MOTION">MOTION NLM</a></li>
                 <li><a href="#CH01 Rotational Dynamics">XII chp 01 Rotational Dynamics</a></li>
                 <li><a href="#CH02 Mechanical Properties of Fluids">XII chp 02 Mechanical Properties of Fluids</a></li>
@@ -40,6 +41,17 @@
         </nav>
     </header>
     <main>
+         <section id="NEET PREVIOUS QUES.BANK">
+            <h2>NEET PREVIOUS QUES.BANK</h2>
+            <ul>
+                <li><a href="">PHYSICS PYQ</a></li>
+                <li><a href="">CHEMISTRY PYQ</a></li>
+                <li><a href="">BIOLOGY PYQ</a></li>
+                <li><a href="https://drive.google.com/file/d/1924PE5GKnrCmJYBsSWLMYFKY6C9LpZkE/view?usp=sharing">SOLUTION TEST 02</a></li>
+                <li><a href="https://drive.google.com/file/d/11V8m0oZir8j2qwnjLRy35nhInx_NfmmS/view?usp=sharing">TEST 03</a></li>
+                <li><a href="https://drive.google.com/file/d/18aNSiX6tIb2TjcWgRdqOkdSO_mmwS-Br/view?usp=sharing">SOLUTION TEST 03</a></li>
+          </ul>
+        </section>
         <section id="MOTION">
             <h2>MOTION NLM</h2>
             <ul>
